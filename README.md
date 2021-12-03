@@ -91,8 +91,8 @@ bgcolor="yellow">
 </body>
 </html>
 ~~~
-## OUPUT:
-![github](timetable.jpeg)
+## OUTPUT:
+![gitlogo](thiru.png)
 
 
 
